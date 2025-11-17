@@ -43,16 +43,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vaishnavinandi26&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
-
----
-
-### 🎨 Data Visualization Vibes
-
-<p align="center">
-  <img src="https://matplotlib.org/stable/_images/sphx_glr_bar_label_demo_001.png" width="45%" />
-  <img src="https://seaborn.pydata.org/_images/seaborn-logo-wide-lightbg.svg" width="40%" />
-</p>
-
 ---
 
 ### 💬 Connect With Me
